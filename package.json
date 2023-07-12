@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "html": "^1.0.0",
+    "validate": "^5.2.0"
+  }
 }
